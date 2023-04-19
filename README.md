@@ -17,12 +17,12 @@ YourNiftyNotetaker will help you keep track of everyday tasks or goals that must
 ## <b>Installation</b>
 Run the following commands below to install the required dependencies.  
 npm i
-express
+* express
 
 
 ## <b>Usage</b>
-Video Demonstration:
-Assets\Images
+Video Demonstration: <br>
+<a href= "https://github.com/SteveeZee03/YourNiftyNotetaker/tree/main/Develop/Assets/Images"> Assets\Images </a>
 
 ## <b>License</b>
 This project is licensed under the MIT license.
