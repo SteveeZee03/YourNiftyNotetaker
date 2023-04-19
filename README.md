@@ -22,7 +22,9 @@ npm i
 
 ## <b>Usage</b>
 Video Demonstration: <br>
-<a href= "https://github.com/SteveeZee03/YourNiftyNotetaker/tree/main/Develop/Assets/Images"> Assets\Images </a>
+<a href= "https://github.com/SteveeZee03/YourNiftyNotetaker/tree/main/Develop/Assets/Images"> Assets\Images </a> <br>
+Deployed Link: <br>
+<a href:="https://steveezee03.github.io/YourNiftyNotetaker/Develop/public/notes"> https://steveezee03.github.io/YourNiftyNotetaker/Develop/public/ </a>
 
 ## <b>License</b>
 This project is licensed under the MIT license.
