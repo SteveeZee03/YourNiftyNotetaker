@@ -4,7 +4,7 @@ const routerNotes = require('./notes');
 
 const app = express();
 
-app.use('/notes', routerNotes);
+app.use('./notes', routerNotes);
 
 
 
